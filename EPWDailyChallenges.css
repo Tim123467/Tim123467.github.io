@@ -5,7 +5,3 @@ body {
 textarea {
     font-family: Courier, monospace;
 }
-
-.error {
-    color: red;
-}
