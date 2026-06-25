@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+textarea {
+    font-family: Courier, monospace;
+}
+
+.error {
+    color: red;
+}
