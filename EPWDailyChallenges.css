@@ -5,3 +5,12 @@ body {
 textarea {
     font-family: Courier, monospace;
 }
+
+h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
