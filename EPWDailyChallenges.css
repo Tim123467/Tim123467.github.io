@@ -1,14 +1,24 @@
 body {
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: rubik, Helvetica, Arial, sans-serif;
+    background-color: #464646;
+    color: #e6e6e6;
+    font-size: 14px;
+}
+
+a {
+    color: #ffd501;
 }
 
 textarea {
-    font-family: Courier, monospace;
+    font-family: Consolas, "Eupheima UCAS", Monaco, Menlo, monospace;
+    background-color: #464646;
+    color: #e6e6e6;
 }
 
 h1 {
     text-align: center;
     margin: 10px;
+    font-size: 36px;
 }
 
 p {
