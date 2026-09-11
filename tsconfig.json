@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+      "rootDir": ".",
+      "outDir": "./docs",
+      "lib": ["esnext", "dom"]
+  }
+}
